@@ -1,5 +1,7 @@
 # Snake Game with Power-Ups and Meteor Shower
 
+# Instruction Guide:
+
 ## Overview
 
 This is a modern twist on the classic Snake game, built using Python and the Pygame library. Navigate the snake to collect food and grow longer, while avoiding obstacles, meteors, and the snake's own body. Special fruits and power-ups add an exciting layer to the game, offering both advantages and challenges.
