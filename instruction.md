@@ -70,7 +70,7 @@ This is a modern twist on the classic Snake game, built using Python and the Pyg
     ```
 3. **Run the Game**:
     ```bash
-    python snake_game.py
+    python app.py
     ```
 
 ## Customization
