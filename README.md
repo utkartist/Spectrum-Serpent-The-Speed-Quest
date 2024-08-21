@@ -48,7 +48,7 @@ To play the game, you need to have Python and Pygame installed on your system.
 3. **Clone the Repository**: Download or clone this repository to your local machine.
 
     ```bash
-    git clone https://github.com/yourusername/snake-game.git
+    git clone https://github.com/utkartist/snake-game.git
     ```
 
 4. **Navigate to the Project Directory**:
