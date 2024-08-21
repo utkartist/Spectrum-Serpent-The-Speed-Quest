@@ -62,7 +62,7 @@ To play the game, you need to have Python and Pygame installed on your system.
 1. **Run the Game**: Open a terminal or command prompt, navigate to the directory containing the game files, and run the following command:
 
     ```bash
-    python snake_game.py
+    app.py
     ```
 
 2. **Gameplay Controls**:
@@ -76,7 +76,7 @@ To play the game, you need to have Python and Pygame installed on your system.
 
 ## Code Structure
 
-- **`snake_game.py`**: The main game file containing all the logic for gameplay, including snake movement, collision detection, meteor shower, and power-ups.
+- **`app.py`**: The main game file containing all the logic for gameplay, including snake movement, collision detection, meteor shower, and power-ups.
 
 ### Key Functions:
 
