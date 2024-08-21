@@ -62,7 +62,7 @@ This is a modern twist on the classic Snake game, built using Python and the Pyg
 ### Running the Game
 1. **Download the Game**: Clone or download the repository to your local machine.
     ```bash
-    git clone https://github.com/yourusername/snake-game.git
+    git clone https://github.com/utkartist/snake-game.git
     ```
 2. **Navigate to the Game Directory**:
     ```bash
